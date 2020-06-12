@@ -1,6 +1,8 @@
 const timIT = ["Yusuf", "Maffed", "Yusron", "Nadya", "Jessica",
                 "Adini", "Resha", "Petra", "David", "Nathanael"]
 
+console.log(timIT.join());
+                
 const tim1 = timIT.splice(0,5)
 const tim2 = timIT
 // console.log(tim1);
